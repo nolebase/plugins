@@ -72,7 +72,7 @@
     "rehype-meta": "^4.0.1",
     "rehype-parse": "^9.0.1",
     "rehype-stringify": "^10.0.1",
-    "tinyglobby": "^0.2.10",
+    "tinyglobby": "^0.2.12",
     "unified": "^11.0.5",
     "unist-util-visit": "^5.0.0"
   },
