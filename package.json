@@ -3,7 +3,7 @@
   "type": "module",
   "version": "2.14.0",
   "private": true,
-  "packageManager": "pnpm@10.4.0",
+  "packageManager": "pnpm@10.4.1",
   "description": "A collection of diverse documentation engineering tools.",
   "author": {
     "name": "Nólëbase",
@@ -45,7 +45,7 @@
     "vitepress": "^1.5.0 || ^2.0.0-alpha.1"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.2.1",
+    "@antfu/eslint-config": "^4.3.0",
     "@antfu/ni": "^23.3.1",
     "@cspell/dict-ru_ru": "^2.2.4",
     "@nolebase/cspell-dict": "^1.3.1",
@@ -54,8 +54,8 @@
     "@unocss/eslint-config": "^66.0.0",
     "@unocss/eslint-plugin": "^66.0.0",
     "@vitejs/plugin-vue": "^5.2.1",
-    "@vitest/coverage-v8": "^3.0.5",
-    "@vitest/ui": "^3.0.5",
+    "@vitest/coverage-v8": "^3.0.6",
+    "@vitest/ui": "^3.0.6",
     "@vueuse/core": "^12.7.0",
     "bumpp": "^10.0.3",
     "changelogithub": "^13.12.1",
@@ -65,16 +65,16 @@
     "lint-staged": "^15.4.3",
     "rimraf": "^6.0.1",
     "simple-git-hooks": "^2.11.1",
-    "taze": "^18.5.0",
+    "taze": "^18.6.0",
     "typescript": "^5.7.3",
     "unbuild": "^3.3.1",
     "unocss": "^66.0.0",
     "unplugin-vue-macros": "^2.14.2",
     "vite": "catalog:",
     "vite-plugin-inspect": "^10.2.1",
-    "vitest": "^3.0.5",
+    "vitest": "^3.0.6",
     "vue": "catalog:",
-    "vue-tsc": "^2.2.0"
+    "vue-tsc": "^2.2.2"
   },
   "workspaces": [
     "packages/*",

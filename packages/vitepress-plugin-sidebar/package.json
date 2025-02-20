@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "fs-extra": "^11.3.0",
-    "tinyglobby": "^0.2.10"
+    "tinyglobby": "^0.2.12"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4"

@@ -71,7 +71,7 @@
     "less": "^4.2.2",
     "ora": "^8.2.0",
     "thumbhash": "^0.1.1",
-    "tinyglobby": "^0.2.10",
+    "tinyglobby": "^0.2.12",
     "uncrypto": "^0.1.3",
     "unlazy": "^0.12.1"
   },

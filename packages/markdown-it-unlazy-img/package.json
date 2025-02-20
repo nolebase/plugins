@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "colorette": "^2.0.20",
-    "tinyglobby": "^0.2.10",
+    "tinyglobby": "^0.2.12",
     "vite": "catalog:"
   },
   "devDependencies": {

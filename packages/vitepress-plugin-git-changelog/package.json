@@ -74,7 +74,7 @@
     "vitepress": "^1.5.0 || ^2.0.0-alpha.1"
   },
   "dependencies": {
-    "@iconify-json/octicon": "^1.2.4",
+    "@iconify-json/octicon": "^1.2.5",
     "@nolebase/ui": "workspace:^",
     "colorette": "^2.0.20",
     "date-fns": "^4.1.0",

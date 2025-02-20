@@ -71,7 +71,7 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "peerDependencies": {
-    "@rive-app/canvas": "^2.26.2",
+    "@rive-app/canvas": "^2.26.3",
     "vitepress": "^1.5.0 || ^2.0.0-alpha.1"
   },
   "dependencies": {
